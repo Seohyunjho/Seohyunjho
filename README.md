@@ -12,6 +12,9 @@
   <a href="https://sites.google.com/view/neuroailab/members-achievements/seo-hyun-jho?authuser=0"><img src="https://img.shields.io/badge/Research_Profile-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Profile" /></a>
   <a href="https://sites.google.com/view/neuroailab"><img src="https://img.shields.io/badge/NeuroAI_Lab-0EA5E9?style=for-the-badge&logo=google&logoColor=white" alt="NeuroAI Lab" /></a>
   <a href="https://github.com/Seohyunjho"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://scholar.google.com/citations?user=VXBapCAAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0004-2672-6106"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://www.linkedin.com/in/%EC%84%9C%ED%98%84-%EC%A1%B0-66b822417/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 </div>
@@ -36,9 +39,9 @@
 
 ## 📚 Publications
 
-1. **S. H. Jho**, D. H. Kim, J. H. Son, and Y.-S. Choi, “Physiology-Aware Multi-Branch Network for Fully Contactless Blood Pressure Estimation via Facial Remote Pulse Transit Time,” *International Joint Conference on Neural Networks (IJCNN)*, 2026. **(Link forthcoming)**
-2. **Seo Hyun Jho** and Young-Seok Choi, “[Facial Video-based Contactless Heart Rate Measurement Technique Using Singular Value Decomposition](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12332212),” *Proceedings of the 2025 IEIE Summer Annual Conference*, pp. 3427–3430, Jun. 2025.
-3. **Seo Hyun Jho**, Dae Hyeon Kim, and Young-Seok Choi, “[Contactless Blood Pressure Estimation Using a Semi-Supervised Graph Convolutional Network](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551073),” *Proceedings of the 2025 IEIE Fall Conference*, pp. 540–543, Nov. 2025.
+1. **S. H. Jho**, D. H. Kim, J. H. Son, and Y.-S. Choi, “Physiology-Aware Multi-Branch Network for Fully Contactless Blood Pressure Estimation via Facial Remote Pulse Transit Time,” *International Joint Conference on Neural Networks (IJCNN)*, 2026. **(Link forthcoming)** · 🎤 **Oral Presentation**
+2. **Seo Hyun Jho** and Young-Seok Choi, “[Facial Video-based Contactless Heart Rate Measurement Technique Using Singular Value Decomposition](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12332212),” *Proceedings of the 2025 IEIE Summer Annual Conference*, pp. 3427–3430, Jun. 2025. · 📌 **Poster Presentation**
+3. **Seo Hyun Jho**, Dae Hyeon Kim, and Young-Seok Choi, “[Contactless Blood Pressure Estimation Using a Semi-Supervised Graph Convolutional Network](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551073),” *Proceedings of the 2025 IEIE Fall Conference*, pp. 540–543, Nov. 2025. · 🎤 **Oral Presentation**
 
 ## 💡 Patent
 1. Young-Seok Choi and **Seo Hyun Jho**, “[Method for Contactless Heart Rate Measurement from Facial Videos Using Singular Value Decomposition](https://sites.google.com/view/neuroailab/publications/patents),” Korean Patent Application No. **10-2025-0128377**, filed Sep. 9, 2025.
@@ -139,7 +142,15 @@
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows" />
 </p>
 
-## 🔗 Connect
+## 📫 Contact & Academic Profiles
+
+<p align="center">
+  <a href="mailto:jsh0321@kw.ac.kr"><img src="https://img.shields.io/badge/Email-jsh0321%40kw.ac.kr-EA4335?style=for-the-badge" alt="Email" /></a>
+  <a href="https://scholar.google.com/citations?user=VXBapCAAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0004-2672-6106"><img src="https://img.shields.io/badge/ORCID-0009--0004--2672--6106-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://www.linkedin.com/in/%EC%84%9C%ED%98%84-%EC%A1%B0-66b822417/"><img src="https://img.shields.io/badge/LinkedIn-Seo_Hyun_Jho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Seohyunjho"><img src="https://img.shields.io/badge/GitHub-Seohyunjho-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://sites.google.com/view/neuroailab/members-achievements/seo-hyun-jho?authuser=0"><img src="https://img.shields.io/badge/Research_Profile-NeuroAI_Lab-7C3AED?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Profile" /></a>
