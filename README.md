@@ -32,6 +32,11 @@
 
 1. Young-Seok Choi and **Seo Hyun Jho**, "[Method for Contactless Heart Rate Measurement from Facial Videos Using Singular Value Decomposition](https://sites.google.com/view/neuroailab/publications/patents)," Korean Patent Application No. **10-2025-0128377**, filed Sep. 9, 2025.
 
+### Awards
+
+- **Top Excellence Award** — Practical Competency Enhancement Performance Utilization Workshop, Industry-Convergent Embedded Systems Professional Workforce Development Program (Intelligent Information Systems Platform Track), Kwangwoon University, Nov. 27, 2025.  
+  Recognized for outstanding industry–academia project results and prototype achievements presented by Seo Hyun Jho of NeuroAI Lab.
+
 ### Research Projects at NeuroAI Lab
 
 > Roles below refer to NeuroAI Lab's role in each project.
