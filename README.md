@@ -52,6 +52,17 @@
 >
 > Recognized for outstanding industry–academia project results and prototype achievements presented by Seo Hyun Jho of NeuroAI Lab.
 
+## 🚀 Competition Highlights
+
+### [AI CHAMPION 2026](https://ai-champion.or.kr/) — Advanced to the Main Round
+
+**NeuroAI Lab advanced to the main round in both competition tracks after passing the preliminary screening.**
+
+- 🇰🇷 **Domestic AI Track — NeuroSync**  
+  *A pre-clinical handoff and healthcare institution routing system for mental-health care based on the orchestration of multiple Korean large language models (LLMs).*
+- 🌐 **General Track — NeuroTruth**  
+  *A closed-loop agent for real-time craving detection and active intervention in alcohol use disorder through multimodal decoding of bio-linguistic incongruence.*
+
 ## 🧪 Research Projects at NeuroAI Lab
 
 > The roles below refer to **NeuroAI Lab's role** in each project.
