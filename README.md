@@ -22,6 +22,15 @@
 - Signal Processing
 - Cross-Modal Representation Learning
 
+### Conference Papers
+
+1. **Seo Hyun Jho** and Young-Seok Choi, "[Facial Video-based Contactless Heart Rate Measurement Technique Using Singular Value Decomposition](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12332212)," *Proceedings of the 2025 IEIE Summer Annual Conference*, pp. 3427–3430, Jun. 2025.
+2. **Seo Hyun Jho**, Dae Hyeon Kim, and Young-Seok Choi, "[Contactless Blood Pressure Estimation Using a Semi-Supervised Graph Convolutional Network](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551073)," *Proceedings of the 2025 IEIE Fall Conference*, pp. 540–543, Nov. 2025.
+
+### Patent
+
+1. Young-Seok Choi and **Seo Hyun Jho**, "[Method for Contactless Heart Rate Measurement from Facial Videos Using Singular Value Decomposition](https://sites.google.com/view/neuroailab/publications/patents)," Korean Patent Application No. **10-2025-0128377**, 2025.
+
 ### Links
 
 - [Personal page — NeuroAI Lab](https://sites.google.com/view/neuroailab/members-achievements/seo-hyun-jho?authuser=0)
