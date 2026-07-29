@@ -13,7 +13,7 @@
 ### Bio
 
 - B.E. in Electronics and Communications Engineering, Kwangwoon University, Seoul, Korea (Mar. 2019 – Feb. 2025)
-- **Current:** M.S. Course in Electronics and Communications Engineering, NeuroAI Lab, Kwangwoon University (Mar. 2025 – Present)
+- **Current:** M.S. Course in Electronics and Communications Engineering, NeuroAI Lab, Kwangwoon University (Mar. 2025 – Present)  `r`n  (Advisor: [Prof. Young-Seok Choi](https://sites.google.com/view/neuroailab/members/professor))
 - Expected graduation: **Feb. 2027**
 
 ### Research Interests
