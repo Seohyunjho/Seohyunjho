@@ -24,15 +24,43 @@
 
 ### Conference Papers
 
-1. **Seo Hyun Jho** and Young-Seok Choi, "[Facial Video-based Contactless Heart Rate Measurement Technique Using Singular Value Decomposition](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12332212)," *Proceedings of the 2025 IEIE Summer Annual Conference*, pp. 3427–3430, Jun. 2025.
-2. **Seo Hyun Jho**, Dae Hyeon Kim, and Young-Seok Choi, "[Contactless Blood Pressure Estimation Using a Semi-Supervised Graph Convolutional Network](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551073)," *Proceedings of the 2025 IEIE Fall Conference*, pp. 540–543, Nov. 2025.
+1. **S. H. Jho**, D. H. Kim, J. H. Son, and Y.-S. Choi, "Physiology-Aware Multi-Branch Network for Fully Contactless Blood Pressure Estimation via Facial Remote Pulse Transit Time," *International Joint Conference on Neural Networks (IJCNN)*, 2026. *(Link forthcoming.)*
+2. **Seo Hyun Jho** and Young-Seok Choi, "[Facial Video-based Contactless Heart Rate Measurement Technique Using Singular Value Decomposition](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12332212)," *Proceedings of the 2025 IEIE Summer Annual Conference*, pp. 3427–3430, Jun. 2025.
+3. **Seo Hyun Jho**, Dae Hyeon Kim, and Young-Seok Choi, "[Contactless Blood Pressure Estimation Using a Semi-Supervised Graph Convolutional Network](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551073)," *Proceedings of the 2025 IEIE Fall Conference*, pp. 540–543, Nov. 2025.
 
 ### Patent
 
-1. Young-Seok Choi and **Seo Hyun Jho**, "[Method for Contactless Heart Rate Measurement from Facial Videos Using Singular Value Decomposition](https://sites.google.com/view/neuroailab/publications/patents)," Korean Patent Application No. **10-2025-0128377**, 2025.
+1. Young-Seok Choi and **Seo Hyun Jho**, "[Method for Contactless Heart Rate Measurement from Facial Videos Using Singular Value Decomposition](https://sites.google.com/view/neuroailab/publications/patents)," Korean Patent Application No. **10-2025-0128377**, filed Sep. 9, 2025.
+
+### Research Projects at NeuroAI Lab
+
+> Roles below refer to NeuroAI Lab's role in each project.
+
+#### Ongoing Projects
+
+- **Development of Neuro-Bio Hybrid AI Technology for Causal Inference and Ultra-Early Prediction of Comorbid Mental and Metabolic Disorders**  
+  Co-Investigator · Apr. 1, 2026 – Dec. 31, 2033 · National Research Foundation of Korea (NRF)
+- **Development of Technologies for Building Training Datasets for Emotion and Affective AI Models**  
+  Principal Investigator · Apr. 1, 2026 – Dec. 31, 2028 · Institute for Information & Communications Technology Planning & Evaluation (IITP)
+- **Development of a Dual-Stream Lightweight Interactive Foundation Model for Causal Human–Device Resonance Learning**  
+  Principal Investigator · Mar. 1, 2026 – Feb. 29, 2029 · National Research Foundation of Korea (NRF)
+- **Development of Real-Time Personalized Craving Intervention Technology through Behavioral Pattern Analysis of Patients with Substance Use Disorders**  
+  Subproject Principal Investigator · Apr. 1, 2024 – Dec. 31, 2028 · National Research Foundation of Korea (NRF)
+- **R&D of Neuromorphic Chip Design Technology and a Neurocomputing Platform Inspired by the Human Nervous System**  
+  Subproject Principal Investigator · Jul. 1, 2022 – Dec. 31, 2029 · Institute for Information & Communications Technology Planning & Evaluation (IITP)
+
+#### Completed Projects
+
+- **Development and Commercialization of AI-Based Contactless Vital-Signal Measurement Technology from Facial Videos**  
+  Subproject Principal Investigator · May 1, 2025 – Dec. 31, 2025 · Korea Technology and Information Promotion Agency for SMEs (TIPA)
+- **Development of a Quantitative Emotion and Affect Evaluation Model for Users in Non-Face-to-Face Environments and Its Commercial Application to Interactive Digital Content**  
+  Subproject Principal Investigator · Apr. 1, 2023 – Dec. 31, 2025 · Institute for Information & Communications Technology Planning & Evaluation (IITP)
+- **Development of Contactless Vital-Sign Measurement and Application Solutions Based on Facial Videos**  
+  Principal Investigator · Jun. 1, 2022 – Feb. 28, 2025 · National Research Foundation of Korea (NRF)
+- **Development of an Arrhythmia Detection Algorithm through Single-Lead ECG Signal Analysis**  
+  Sep. 1, 2024 – Dec. 31, 2024 · HolmesAI
 
 ### Links
-
 - [Personal page — NeuroAI Lab](https://sites.google.com/view/neuroailab/members-achievements/seo-hyun-jho?authuser=0)
 - [NeuroAI Lab](https://sites.google.com/view/neuroailab)
 - [GitHub](https://github.com/Seohyunjho)
